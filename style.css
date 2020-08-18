@@ -1,0 +1,63 @@
+body {
+    background: url(images/37958.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+/* The container */
+
+.container {
+    background-color: #FFF;
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 7%;
+    overflow: hidden;
+}
+/* for horizintl line (hr) */
+hr {
+    width: 80%;
+}
+
+/* Facebook Button */
+.fb {
+    background-color: royalblue;
+    color: #FFF;
+    padding: 5px 25px;
+    border-radius: 5px;
+    border: none;
+}
+
+/* for form and inputs */
+.container input {
+    padding: 5px;
+    width: 70%;
+}
+
+/* for checkbox */
+.container input[type=checkbox] {
+    width: auto;
+}
+
+.container input[type=submit] {
+    background-color: darkgreen;
+    padding: 10px 15px;
+    width: 40%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
