@@ -15,7 +15,7 @@ body {
     margin-top: 7%;
     overflow: hidden;
 }
-/* for horizintl line (hr) */
+/* for horizontal line (hr) */
 hr {
     width: 80%;
 }
@@ -40,6 +40,7 @@ hr {
     width: auto;
 }
 
+/* for submit button */
 .container input[type=submit] {
     background-color: darkgreen;
     padding: 10px 15px;
@@ -50,6 +51,7 @@ hr {
     font-size: 17px;
 }
 
+/* End */
 
 
 
